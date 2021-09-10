@@ -1,0 +1,37 @@
+h1 {
+    color: rgb(239, 255, 20);
+    -webkit-text-stroke: 0.5px rgb(226, 0, 0);
+}
+body {
+    background-color: #e6e6e6;
+}
+.celdapadre {
+    border: rgb(0, 0, 0) 5px solid;
+}
+.armastitulo {
+    color: steelblue;
+    border: rgb(0, 0, 0) 5px solid;
+    padding-left: 2px;
+    padding-right: 4px;
+    text-align: center;
+    padding-bottom: 0px;
+}
+.armasdescripcion {
+    color: rgb(25, 129, 214);
+    border: rgb(0, 0, 0) 5px solid;
+}
+#celda {
+    padding-left: 2px;
+    padding-right: 4px;
+}
+.Columnas {
+    color: rgb(25, 129, 214);
+    border: rgb(0, 0, 0) 2px solid;
+}
+.div {
+    height: 200px;
+    width: 40px;
+}
+.imagen3 {
+    height: 200px;
+}

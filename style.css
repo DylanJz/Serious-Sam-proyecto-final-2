@@ -1,0 +1,25 @@
+body {
+    font-family:'Roboto', sans-serif;
+    font-size: 18px;
+    color: grey;
+}
+#SS {
+    font-family:'Roboto', sans-serif;
+    font-size: 24;
+}
+img {
+    width: 100px;
+    float: left;
+}
+p {
+    width: 400px;  
+}
+li {
+    font-size: 25px;
+}
+
+.nav {
+    padding: 0px;
+    width: 100%;
+}
+
